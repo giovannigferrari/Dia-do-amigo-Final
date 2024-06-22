@@ -7,7 +7,6 @@
 <body>
     <div class="container">
         <header>
-            <h1>João Marquezini (Jão)</h1>
             <nav>
                 <ul>
                     <li><a href="https://kauakaw.github.io/friend/inicio.html">Início</a></li>
