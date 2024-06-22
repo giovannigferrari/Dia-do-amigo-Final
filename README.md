@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -62,5 +61,3 @@
             <p>© 2024. Todos os direitos reservados.</p>
         </footer>
     </div>
-</body>
-</html>
