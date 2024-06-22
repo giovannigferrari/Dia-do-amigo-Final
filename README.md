@@ -165,8 +165,7 @@ footer {
                                   <img src="capuz.jpg" alt="Imagem 3">
                                 </div>
                               </div>
-                              <br>                              
-                              <script src="hybrg.js"></script>                                      
+                              <br>                                                              
                         </td>
                     </tr>
                 </table>
