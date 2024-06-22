@@ -56,7 +56,6 @@
                 <video controls>
                    <source src="Download (1).mp4" type="video/mp4">
                </video>
-        </main>
         <footer>
             <p>© 2024. Todos os direitos reservados.</p>
         </footer>
